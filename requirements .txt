@@ -1,0 +1,7 @@
+requests == 2.18.4
+numpy == 1.14.1
+pandas == 
+matplotlib
+StringIO
+seaborn
+from sklearn.linear_model import LinearRegression
